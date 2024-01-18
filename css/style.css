@@ -6,6 +6,7 @@ a {
 body{
   width: 1200px;
   color: #8B8B8B;
+  margin: 0 auto;
 }
 
 .news__ttl,.about__ttl,.service__ttl,.blog__ttl,.company__ttl{
